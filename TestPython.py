@@ -1,1 +1,1 @@
-print "Hello,world! My name is Li and I am testing Python and GitHub. Changes are made later"
+print "Hello,world! My name is Li and I am testing Python and GitHub. Do they communicate well? Changes are made later"
