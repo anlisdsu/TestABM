@@ -1,1 +1,2 @@
-print "Hello,world! My name is Li and I am testing Python and GitHub. Do they communicate well? Changes are made later"
+name = raw_input ("What is your name")
+print "Hello,world!"
